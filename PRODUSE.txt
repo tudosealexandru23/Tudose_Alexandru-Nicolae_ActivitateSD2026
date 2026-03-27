@@ -1,0 +1,10 @@
+101,999,0.99,GumaTurbo,Dulciuri,T
+102,1,9999.99,LaptopGamingPro,Electronice,A
+103,250,2.49,ApaMinerala2L,Bauturi,B
+104,0,15.75,CafeaArabicaPremium,Bauturi,C
+105,75,120.00,BoxaBluetoothXSound,Electronice,D
+106,500,1.10,PungaZahar1kg,Aliment,E
+107,12,3499.90,TelevizorSmart4K,Electronice,F
+108,3,89.99,CastiWirelessNoiseCancel,Electronice,G
+109,1000,0.50,PixAlbastruOffice,Papetarie,H
+110,45,25.30,DetergentLichidUltra,Curatenie,I
